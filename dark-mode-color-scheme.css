@@ -1,0 +1,20 @@
+/* colors */
+:root {
+  --primary-background: rgb(29, 31, 33);
+  --secondary-background: rgb(43, 45, 47);
+  --primary-text: rgb(220, 221, 221);
+  --secondary-text: rgb(166, 168, 170);
+  --secondary-text-hover: rgb(213, 215, 217);
+  --placeholder: rgb(136, 136, 139);
+  --button-background: rgb(93, 94, 95);
+  --input-background: rgb(99, 100, 103);
+  --input-text: rgb(231, 231, 232);
+  --input-border: rgb(118, 119, 122);
+  --highlight-background: rgb(182, 185, 187);
+  --highlight-text: rgb(43, 46, 48);
+  /* colors*/
+  --red: rgb(255, 114, 105);
+  --green: rgb(99, 255, 119);
+  --yellow: rgb(255, 230, 67);
+  --blue: rgb(55, 159, 255);
+}
